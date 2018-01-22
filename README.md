@@ -1,4 +1,3 @@
-# hello-world
-My first github repository
+# Creating repository for kaggle jupyter notebook training 
+Repository for interesting kaggle projects with machine learning techniques
 
-Work related developments for learning data science and machine learning methodologies 
